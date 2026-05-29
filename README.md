@@ -6,8 +6,4 @@
 ⚡ Fun fact I love animations in websites , it is the coolest thing in whole websites it attracts me very much.
 
 💻 Tech Stack:
-HTML5 
-CSS3 
-JavaScript 
-C 
-C++
+HTML5 | CSS3 | JavaScript | C | C++
