@@ -1,16 +1,13 @@
-## Hi there 👋
+💫 About Me:
+🔭 I’m currently working on web developer
+🤝 I’m looking for help with expereinced web developer who are also interested in animations in websites.
+🌱 I’m currently learning JavaScript
+💬 Ask me about my interest , what cool things we can work on , in programming
+⚡ Fun fact I love animations in websites , it is the coolest thing in whole websites it attracts me very much.
 
-<!--
-**Ronak-0052/Ronak-0052** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+HTML5 
+CSS3 
+JavaScript 
+C 
+C++
